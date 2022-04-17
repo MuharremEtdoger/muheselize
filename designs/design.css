@@ -1,0 +1,286 @@
+.danger-type{
+	color:#fff;
+	background:#9b0a0a;
+}
+.danger-type:hover{
+	background:#fff;
+	color:#9b0a0a;
+}
+.warning-type{
+	color:#fff;
+	background:#f66a27;
+}
+.warning-type:hover{
+	background:#fff;
+	color:#f66a27;
+}
+.warning-info-type{
+	color:#fff;
+	background:#d8db0d;
+}
+.warning-info-type:hover{
+	background:#fff;
+	color:#d8db0d;
+}
+.info-type{
+	color:#fff;
+	background:#21d3ea;
+}
+.info-type:hover{
+	background:#fff;
+	color:#21d3ea;
+}
+.success-type{
+	color:#fff;
+	background:#4dc552;
+}
+.success-type:hover{
+	background:#fff;
+	color:#4dc552;
+}
+.effective-type{
+	color:#fff;
+	background:#232c60;
+}
+.effective-type:hover{
+	background:#fff;
+	color:#232c60;
+}
+
+
+.reverse-type.danger-type{
+	background:#fff;
+	color:#9b0a0a;
+}
+.reverse-type.danger-type:hover{
+	color:#fff;
+	background:#9b0a0a;
+}
+.reverse-type.warning-type{
+	background:#fff;
+	color:#f66a27;
+}
+.reverse-type.warning-type:hover{
+	color:#fff;
+	background:#f66a27;
+}
+.reverse-type.warning-info-type{
+	background:#fff;
+	color:#d8db0d;
+}
+.reverse-type.warning-info-type:hover{
+	color:#fff;
+	background:#d8db0d;
+}
+.reverse-type.info-type{
+	background:#fff;
+	color:#21d3ea;
+}
+.reverse-type.info-type:hover{
+	color:#fff;
+	background:#21d3ea;
+}
+.reverse-type.success-type{
+	background:#fff;
+	color:#4dc552;
+}
+.reverse-type.success-type:hover{
+	color:#fff;
+	background:#4dc552;
+}
+.reverse-type.effective-type{
+	background:#fff;
+	color:#232c60;
+}
+.reverse-type.effective-type:hover{
+	color:#fff;
+	background:#232c60;
+}
+.click-element{
+	-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+	display: block;
+    width: 100%;
+    line-height: 1;
+    padding: 10px 0px;
+    border-width: 2px;
+    border-style: solid;
+    border-image: initial;
+	outline: none;	
+	text-align: center;
+	word-break: break-word;
+	text-decoration: none;
+}
+.elipse-click{    
+    border-radius: 100px;
+}
+.elipse-small-click{
+    border-radius: 15px;
+}
+.standard-click{
+    border-radius: 0px;
+}
+.click-xs{
+    font-size: 12px;
+    font-weight: 600;
+}
+.click-s{
+    font-size: 15px;
+    font-weight: 600;
+}
+.click-m{
+    font-size: 18px;
+    font-weight: 600;
+}
+.click-l{
+    font-size: 21px;
+    font-weight: 600;
+}
+.click-xl{
+    font-size: 24px;
+    font-weight: 600;
+}
+.element-label{
+	-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+	display: block;
+    width: 100%;
+    line-height: 1;
+    padding: 10px 0px;
+    border-width: 2px;
+    border-style: solid;
+    border-image: initial;
+	outline: none;	
+	text-align: center;
+	word-break: break-word;
+	text-decoration: none;
+}
+.text-xs{
+    font-size: 12px;
+    font-weight: 600;
+}
+.text-s{
+    font-size: 15px;
+    font-weight: 600;
+}
+.text-m{
+    font-size: 18px;
+    font-weight: 600;
+}
+.text-l{
+    font-size: 21px;
+    font-weight: 600;
+}
+.text-xl{
+    font-size: 24px;
+    font-weight: 600;
+}
+.danger-type-label{
+	color:#fff;
+	background:#9b0a0a;
+}
+.danger-type-label:hover{
+	color:#fff;
+	background:#9b0a0a;
+}
+.warning-type-label{
+	color:#fff;
+	background:#f66a27;
+}
+.warning-type-label:hover{
+	color:#fff;
+	background:#f66a27;
+}
+.warning-info-type-label{
+	color:#fff;
+	background:#d8db0d;
+}
+.warning-info-type-label:hover{
+	color:#fff;
+	background:#d8db0d;
+}
+.info-type-label{
+	color:#fff;
+	background:#21d3ea;
+}
+.info-type-label:hover{
+	color:#fff;
+	background:#21d3ea;
+}
+.success-type-label{
+	color:#fff;
+	background:#4dc552;
+}
+.success-type-label:hover{
+color:#fff;
+	background:#4dc552;
+}
+.effective-type-label{
+	color:#fff;
+	background:#232c60;
+}
+.effective-type-label:hover{
+	color:#fff;
+	background:#232c60;
+}
+
+
+.reverse-type.danger-type-label{
+	background:#fff;
+	color:#9b0a0a;
+}
+.reverse-type.danger-type-label:hover{
+	background:#fff;
+	color:#9b0a0a;
+}
+.reverse-type.warning-type-label{
+	background:#fff;
+	color:#f66a27;
+}
+.reverse-type.warning-type-label:hover{
+background:#fff;
+	color:#f66a27;
+}
+.reverse-type.warning-info-type-label{
+	background:#fff;
+	color:#d8db0d;
+}
+.reverse-type.warning-info-type-label:hover{
+	background:#fff;
+	color:#d8db0d;
+}
+.reverse-type.info-type-label{
+	background:#fff;
+	color:#21d3ea;
+}
+.reverse-type.info-type-label:hover{
+	background:#fff;
+	color:#21d3ea;
+}
+.reverse-type.success-type-label{
+	background:#fff;
+	color:#4dc552;
+}
+.reverse-type.success-type-label:hover{
+	background:#fff;
+	color:#4dc552;
+}
+.reverse-type.effective-type-label{
+	background:#fff;
+	color:#232c60;
+}
+.reverse-type.effective-type-label:hover{
+	background:#fff;
+	color:#232c60;
+}
+.elipse-label{    
+    border-radius: 100px;
+}
+.elipse-small-label{
+    border-radius: 15px;
+}
+.standard-label{
+    border-radius: 0px;
+}

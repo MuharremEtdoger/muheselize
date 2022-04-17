@@ -1,0 +1,65 @@
+body{
+	margin:0;
+}
+.gridstyle{
+	background:white;
+	text-align:center;	
+}
+.gridstyle .gridstyleContent{
+	-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  background: white;
+    width: 100%;
+    margin: 0 auto;
+    border: 1px solid #eee;
+    height: 70px;
+    padding: 8px;
+    padding-top: 12px;
+    margin-bottom: 25px;
+    box-shadow: 1px 1px 9px 1px #ccc;
+}
+.blocks-title{
+	text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+img.img-muheselize{
+	max-width:100%;
+	margin:0 auto;
+}
+.muhelize-home-element{
+	    border: 1px solid #eee;
+    padding-bottom: 15px;
+    border-radius: 0px 0px 15px 15px;
+    margin-top: 20px;
+    box-shadow: 0px 0px 15px -1px #eee;
+	padding-left: 5px;
+    padding-right: 5px;
+}
+.muhelize-home-element img{
+	
+}
+.muhelize-home-element h2{
+	font-size: 17px;
+    line-height: 19px;
+    color: #607D8B;
+    font-weight: bold;
+}
+.muhelize-home-element p{
+	color: #838181;
+    text-align: center;
+    font-size: 15px;
+    line-height: 18px;
+}
+.header-area{
+	    background: #607D8B;
+    text-align: center;
+    color: #ffffff;
+    border-bottom: 2px solid #eeeeee;
+    margin-bottom: 20px;
+}
+h1.standard{
+	
+}
